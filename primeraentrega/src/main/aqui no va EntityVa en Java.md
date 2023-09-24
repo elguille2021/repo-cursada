@@ -1,0 +1,1 @@
+el archivo .java de Entity va siempre en la carpeta de java (java y resources son independientes una de otra) nunca afuera 
